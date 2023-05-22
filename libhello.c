@@ -2,5 +2,5 @@
 
 void print_hello()
 {
-    puts("hello world");
+    puts("bonjour le monde");
 }
